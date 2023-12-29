@@ -1,4 +1,4 @@
-const url = 'https://api.publicapis.org/entries';
+const url = 'https://raw.githubusercontent.com/Cloud-Dark/simple-json/main/simple-json-for-table.json';
 
 function showLoading() {
   const dataTable = document.getElementById('data-table');
